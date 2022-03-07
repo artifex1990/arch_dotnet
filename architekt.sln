@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "architekt", "architekt.csproj", "{D6810E00-70AF-4798-88EC-675067C80731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "architekt_test", "architekt_test\architekt_test.csproj", "{CE04F77C-3A02-428B-B316-52F1F46C484E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6810E00-70AF-4798-88EC-675067C80731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6810E00-70AF-4798-88EC-675067C80731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6810E00-70AF-4798-88EC-675067C80731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6810E00-70AF-4798-88EC-675067C80731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE04F77C-3A02-428B-B316-52F1F46C484E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE04F77C-3A02-428B-B316-52F1F46C484E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE04F77C-3A02-428B-B316-52F1F46C484E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE04F77C-3A02-428B-B316-52F1F46C484E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
